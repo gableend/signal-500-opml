@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>The Signal 500 — Business &amp; Money — feeds.bar</title>
+    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <ownerName>FeedsBar</ownerName>
+    <ownerId>https://feeds.bar/signal-500/</ownerId>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Business &amp; Money" title="Business &amp; Money">
+      <outline type="rss" text="Vitalik Buterin's Blog" title="Vitalik Buterin's Blog" xmlUrl="https://vitalik.eth.limo/feed.xml" htmlUrl="https://vitalik.eth.limo"/>
+      <outline type="rss" text="Stratechery" title="Stratechery" xmlUrl="https://stratechery.com/feed/" htmlUrl="https://stratechery.com"/>
+      <outline type="rss" text="Marginal Revolution" title="Marginal Revolution" xmlUrl="https://marginalrevolution.com/feed" htmlUrl="https://marginalrevolution.com"/>
+      <outline type="rss" text="Lenny's Newsletter" title="Lenny's Newsletter" xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl="https://lennysnewsletter.com"/>
+      <outline type="rss" text="Web3 is Going Great (Molly White)" title="Web3 is Going Great (Molly White)" xmlUrl="https://www.web3isgoinggreat.com/feed/" htmlUrl="https://web3isgoinggreat.com"/>
+      <outline type="rss" text="Financial Times" title="Financial Times" xmlUrl="https://www.ft.com/rss/home" htmlUrl="https://ft.com"/>
+      <outline type="rss" text="Musings on Markets" title="Musings on Markets" xmlUrl="https://aswathdamodaran.blogspot.com/feeds/posts/default" htmlUrl="https://aswathdamodaran.blogspot.com"/>
+      <outline type="rss" text="Not Boring (Packy McCormick)" title="Not Boring (Packy McCormick)" xmlUrl="https://www.notboring.co/feed" htmlUrl="https://notboring.co"/>
+      <outline type="rss" text="Of Dollars and Data" title="Of Dollars and Data" xmlUrl="https://ofdollarsanddata.com/feed/" htmlUrl="https://ofdollarsanddata.com"/>
+      <outline type="rss" text="Marc to Market" title="Marc to Market" xmlUrl="https://www.marctomarket.com/feeds/posts/default" htmlUrl="https://marctomarket.com"/>
+      <outline type="rss" text="Wolf Street" title="Wolf Street" xmlUrl="https://wolfstreet.com/feed/" htmlUrl="https://wolfstreet.com"/>
+      <outline type="rss" text="Feld Thoughts" title="Feld Thoughts" xmlUrl="https://feld.com/feed/" htmlUrl="https://feld.com"/>
+      <outline type="rss" text="Tomasz Tunguz" title="Tomasz Tunguz" xmlUrl="https://tomtunguz.com/index.xml" htmlUrl="https://tomtunguz.com"/>
+      <outline type="rss" text="The Big Picture" title="The Big Picture" xmlUrl="https://ritholtz.com/feed/" htmlUrl="https://ritholtz.com"/>
+      <outline type="rss" text="Safal Niveshak" title="Safal Niveshak" xmlUrl="https://www.safalniveshak.com/feed/" htmlUrl="https://safalniveshak.com"/>
+      <outline type="rss" text="Monevator" title="Monevator" xmlUrl="https://monevator.com/feed/" htmlUrl="https://monevator.com"/>
+      <outline type="rss" text="The Intellectual Investor (Vitaliy Katsenelson)" title="The Intellectual Investor (Vitaliy Katsenelson)" xmlUrl="https://investor.fm/feed/" htmlUrl="https://investor.fm"/>
+      <outline type="rss" text="MishTalk" title="MishTalk" xmlUrl="https://www.mishtalk.com/feed/" htmlUrl="https://mishtalk.com"/>
+      <outline type="rss" text="A Wealth of Common Sense" title="A Wealth of Common Sense" xmlUrl="https://awealthofcommonsense.com/feed/" htmlUrl="https://awealthofcommonsense.com"/>
+      <outline type="rss" text="Mad Fientist" title="Mad Fientist" xmlUrl="https://www.madfientist.com/feed/" htmlUrl="https://madfientist.com"/>
+      <outline type="rss" text="Afford Anything" title="Afford Anything" xmlUrl="https://affordanything.com/feed/" htmlUrl="https://affordanything.com"/>
+      <outline type="rss" text="Financial Samurai" title="Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" htmlUrl="https://financialsamurai.com"/>
+      <outline type="rss" text="Klement on Investing" title="Klement on Investing" xmlUrl="https://klementoninvesting.substack.com/feed" htmlUrl="https://klementoninvesting.substack.com"/>
+      <outline type="rss" text="The Defiant" title="The Defiant" xmlUrl="https://thedefiant.io/api/feed" htmlUrl="https://thedefiant.io"/>
+      <outline type="rss" text="The Block" title="The Block" xmlUrl="https://www.theblock.co/rss.xml" htmlUrl="https://theblock.co"/>
+      <outline type="rss" text="The Ken" title="The Ken" xmlUrl="https://the-ken.com/feed/" htmlUrl="https://the-ken.com"/>
+      <outline type="rss" text="The White Coat Investor" title="The White Coat Investor" xmlUrl="https://www.whitecoatinvestor.com/feed/" htmlUrl="https://whitecoatinvestor.com"/>
+      <outline type="rss" text="Crunchbase News" title="Crunchbase News" xmlUrl="https://news.crunchbase.com/feed/" htmlUrl="https://news.crunchbase.com"/>
+      <outline type="rss" text="Bankless" title="Bankless" xmlUrl="https://www.bankless.com/rss/feed" htmlUrl="https://bankless.com"/>
+      <outline type="rss" text="NerdWallet" title="NerdWallet" xmlUrl="https://www.nerdwallet.com/blog/feed/" htmlUrl="https://nerdwallet.com"/>
+      <outline type="rss" text="Tech.eu" title="Tech.eu" xmlUrl="https://tech.eu/feed/" htmlUrl="https://tech.eu"/>
+      <outline type="rss" text="The Economist – Business" title="The Economist – Business" xmlUrl="https://www.economist.com/business/rss.xml" htmlUrl="https://economist.com"/>
+      <outline type="rss" text="Abnormal Returns" title="Abnormal Returns" xmlUrl="https://abnormalreturns.com/feed/" htmlUrl="https://abnormalreturns.com"/>
+      <outline type="rss" text="Banker on Wheels" title="Banker on Wheels" xmlUrl="https://bankeronwheels.com/feed/" htmlUrl="https://bankeronwheels.com"/>
+      <outline type="rss" text="Early Retirement Now" title="Early Retirement Now" xmlUrl="https://earlyretirementnow.com/feed/" htmlUrl="https://earlyretirementnow.com"/>
+      <outline type="rss" text="The Generalist" title="The Generalist" xmlUrl="https://www.generalist.com/feed" htmlUrl="https://generalist.com"/>
+      <outline type="rss" text="Fortune" title="Fortune" xmlUrl="https://fortune.com/feed/" htmlUrl="https://fortune.com"/>
+      <outline type="rss" text="McKinsey Insights" title="McKinsey Insights" xmlUrl="https://www.mckinsey.com/rss" htmlUrl="https://mckinsey.com"/>
+      <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com"/>
+      <outline type="rss" text="CNBC" title="CNBC" xmlUrl="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=10001147" htmlUrl="https://cnbc.com"/>
+      <outline type="rss" text="MarketWatch – Top Stories" title="MarketWatch – Top Stories" xmlUrl="https://feeds.content.dowjones.io/public/rss/mw_topstories" htmlUrl="https://marketwatch.com"/>
+      <outline type="rss" text="Business Insider" title="Business Insider" xmlUrl="https://www.businessinsider.com/rss" htmlUrl="https://businessinsider.com"/>
+      <outline type="rss" text="Forbes Business" title="Forbes Business" xmlUrl="https://www.forbes.com/business/feed/" htmlUrl="https://forbes.com"/>
+    </outline>
+  </body>
+</opml>

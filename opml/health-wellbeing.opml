@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>The Signal 500 — Health &amp; Wellbeing — feeds.bar</title>
+    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <ownerName>FeedsBar</ownerName>
+    <ownerId>https://feeds.bar/signal-500/</ownerId>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Health &amp; Wellbeing" title="Health &amp; Wellbeing">
+      <outline type="rss" text="KFF Health News" title="KFF Health News" xmlUrl="https://kffhealthnews.org/feed/" htmlUrl="https://kffhealthnews.org"/>
+      <outline type="rss" text="The Conversation (Health)" title="The Conversation (Health)" xmlUrl="https://theconversation.com/global/health/articles.atom" htmlUrl="https://theconversation.com"/>
+      <outline type="rss" text="Science-Based Medicine" title="Science-Based Medicine" xmlUrl="https://sciencebasedmedicine.org/feed/" htmlUrl="https://sciencebasedmedicine.org"/>
+      <outline type="rss" text="Greater Good Magazine" title="Greater Good Magazine" xmlUrl="https://greatergood.berkeley.edu/rss" htmlUrl="https://greatergood.berkeley.edu"/>
+      <outline type="rss" text="Stronger by Science" title="Stronger by Science" xmlUrl="https://www.strongerbyscience.com/feed/" htmlUrl="https://strongerbyscience.com"/>
+      <outline type="rss" text="Cup of Jo" title="Cup of Jo" xmlUrl="https://cupofjo.com/feed/" htmlUrl="https://cupofjo.com"/>
+      <outline type="rss" text="Janet Lansbury" title="Janet Lansbury" xmlUrl="https://janetlansbury.com/feed/" htmlUrl="https://janetlansbury.com"/>
+      <outline type="rss" text="NutritionFacts.org" title="NutritionFacts.org" xmlUrl="https://nutritionfacts.org/feed/" htmlUrl="https://nutritionfacts.org"/>
+      <outline type="rss" text="Mad in America" title="Mad in America" xmlUrl="https://www.madinamerica.com/feed/" htmlUrl="https://madinamerica.com"/>
+      <outline type="rss" text="PsyPost" title="PsyPost" xmlUrl="https://www.psypost.org/feed" htmlUrl="https://psypost.org"/>
+      <outline type="rss" text="SimpliFaster" title="SimpliFaster" xmlUrl="https://simplifaster.com/feed/" htmlUrl="https://simplifaster.com"/>
+      <outline type="rss" text="Therapy for Black Girls" title="Therapy for Black Girls" xmlUrl="https://therapyforblackgirls.com/feed/" htmlUrl="https://therapyforblackgirls.com"/>
+      <outline type="rss" text="Nick Wignall" title="Nick Wignall" xmlUrl="https://nickwignall.com/feed/" htmlUrl="https://nickwignall.com"/>
+      <outline type="rss" text="Mental Health America Blog" title="Mental Health America Blog" xmlUrl="https://www.mhanational.org/blog/feed" htmlUrl="https://mhanational.org"/>
+      <outline type="rss" text="Peter Attia (The Drive)" title="Peter Attia (The Drive)" xmlUrl="https://peterattiamd.com/feed/" htmlUrl="https://peterattiamd.com"/>
+      <outline type="rss" text="DC Rainmaker" title="DC Rainmaker" xmlUrl="https://www.dcrainmaker.com/feed" htmlUrl="https://dcrainmaker.com"/>
+      <outline type="rss" text="Nerd Fitness" title="Nerd Fitness" xmlUrl="https://www.nerdfitness.com/blog/feed/" htmlUrl="https://nerdfitness.com"/>
+      <outline type="rss" text="ADDitude" title="ADDitude" xmlUrl="https://www.additudemag.com/feed/" htmlUrl="https://additudemag.com"/>
+      <outline type="rss" text="PositivePsychology.com" title="PositivePsychology.com" xmlUrl="https://positivepsychology.com/feed/" htmlUrl="https://positivepsychology.com"/>
+      <outline type="rss" text="Mark's Daily Apple" title="Mark's Daily Apple" xmlUrl="https://www.marksdailyapple.com/feed/" htmlUrl="https://marksdailyapple.com"/>
+      <outline type="rss" text="Mombian" title="Mombian" xmlUrl="https://mombian.com/feed/" htmlUrl="https://mombian.com"/>
+      <outline type="rss" text="STAT News" title="STAT News" xmlUrl="https://www.statnews.com/feed/" htmlUrl="https://statnews.com"/>
+      <outline type="rss" text="Precision Nutrition" title="Precision Nutrition" xmlUrl="https://www.precisionnutrition.com/feed" htmlUrl="https://precisionnutrition.com"/>
+      <outline type="rss" text="Mindful" title="Mindful" xmlUrl="https://www.mindful.org/feed/" htmlUrl="https://mindful.org"/>
+      <outline type="rss" text="PsyBlog" title="PsyBlog" xmlUrl="https://www.spring.org.uk/feed" htmlUrl="https://spring.org.uk"/>
+      <outline type="rss" text="StrongFirst" title="StrongFirst" xmlUrl="https://www.strongfirst.com/feed/" htmlUrl="https://strongfirst.com"/>
+      <outline type="rss" text="Wellness Mama" title="Wellness Mama" xmlUrl="https://wellnessmama.com/feed/" htmlUrl="https://wellnessmama.com"/>
+      <outline type="rss" text="Yoga with Adriene" title="Yoga with Adriene" xmlUrl="https://yogawithadriene.com/blog/feed/" htmlUrl="https://yogawithadriene.com"/>
+      <outline type="rss" text="Free-Range Kids" title="Free-Range Kids" xmlUrl="https://freerangekids.com/feed/" htmlUrl="https://freerangekids.com"/>
+      <outline type="rss" text="Zwift Insider" title="Zwift Insider" xmlUrl="https://zwiftinsider.com/feed/" htmlUrl="https://zwiftinsider.com"/>
+      <outline type="rss" text="Blogilates" title="Blogilates" xmlUrl="https://www.blogilates.com/feed/" htmlUrl="https://blogilates.com"/>
+      <outline type="rss" text="Busy Toddler" title="Busy Toddler" xmlUrl="https://busytoddler.com/feed/" htmlUrl="https://busytoddler.com"/>
+      <outline type="rss" text="Psychology Today" title="Psychology Today" xmlUrl="https://www.psychologytoday.com/us/front/feed" htmlUrl="https://psychologytoday.com"/>
+      <outline type="rss" text="Canadian Running Magazine" title="Canadian Running Magazine" xmlUrl="https://runningmagazine.ca/feed/" htmlUrl="https://runningmagazine.ca"/>
+      <outline type="rss" text="Tiny Buddha" title="Tiny Buddha" xmlUrl="https://tinybuddha.com/feed/" htmlUrl="https://tinybuddha.com"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>The Signal 500 — Sports — feeds.bar</title>
+    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <ownerName>FeedsBar</ownerName>
+    <ownerId>https://feeds.bar/signal-500/</ownerId>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Sports" title="Sports">
+      <outline type="rss" text="Defector" title="Defector" xmlUrl="https://defector.com/feed" htmlUrl="https://defector.com"/>
+      <outline type="rss" text="ABC News Sport (Australia)" title="ABC News Sport (Australia)" xmlUrl="https://www.abc.net.au/news/feed/51120/rss.xml" htmlUrl="https://abc.net.au"/>
+      <outline type="rss" text="Swiss Ramble" title="Swiss Ramble" xmlUrl="https://swissramble.substack.com/feed" htmlUrl="https://swissramble.substack.com"/>
+      <outline type="rss" text="LA Times Sports" title="LA Times Sports" xmlUrl="https://www.latimes.com/sports.rss" htmlUrl="https://latimes.com"/>
+      <outline type="rss" text="MLB Trade Rumors" title="MLB Trade Rumors" xmlUrl="https://www.mlbtraderumors.com/feed/" htmlUrl="https://mlbtraderumors.com"/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml" htmlUrl="https://bbc.co.uk"/>
+      <outline type="rss" text="American Soccer Analysis" title="American Soccer Analysis" xmlUrl="https://www.americansocceranalysis.com/home?format=rss" htmlUrl="https://americansocceranalysis.com"/>
+      <outline type="rss" text="ESPNcricinfo" title="ESPNcricinfo" xmlUrl="https://www.espncricinfo.com/rss/content/story/feeds/0.xml" htmlUrl="https://espncricinfo.com"/>
+      <outline type="rss" text="The Guardian Sport" title="The Guardian Sport" xmlUrl="https://www.theguardian.com/sport/rss" htmlUrl="https://theguardian.com"/>
+      <outline type="rss" text="LetsRun.com" title="LetsRun.com" xmlUrl="https://www.letsrun.com/feed/" htmlUrl="https://letsrun.com"/>
+      <outline type="rss" text="Pitcher List" title="Pitcher List" xmlUrl="https://pitcherlist.com/feed/" htmlUrl="https://pitcherlist.com"/>
+      <outline type="rss" text="No Dunks" title="No Dunks" xmlUrl="https://nodunks.substack.com/feed" htmlUrl="https://nodunks.substack.com"/>
+      <outline type="rss" text="The Analyst (Opta)" title="The Analyst (Opta)" xmlUrl="https://theanalyst.com/feed" htmlUrl="https://theanalyst.com"/>
+      <outline type="rss" text="Baseball Prospectus" title="Baseball Prospectus" xmlUrl="https://www.baseballprospectus.com/feed/" htmlUrl="https://baseballprospectus.com"/>
+      <outline type="rss" text="Sports Info Solutions" title="Sports Info Solutions" xmlUrl="https://www.sportsinfosolutions.com/feed/" htmlUrl="https://sportsinfosolutions.com"/>
+      <outline type="rss" text="The 42" title="The 42" xmlUrl="https://www.the42.ie/feed/" htmlUrl="https://the42.ie"/>
+      <outline type="rss" text="Awful Announcing" title="Awful Announcing" xmlUrl="https://awfulannouncing.com/feed/" htmlUrl="https://awfulannouncing.com"/>
+      <outline type="rss" text="Front Office Sports" title="Front Office Sports" xmlUrl="https://frontofficesports.com/feed/" htmlUrl="https://frontofficesports.com"/>
+      <outline type="rss" text="ESPN" title="ESPN" xmlUrl="https://feeds.feedburner.com/espn/news" htmlUrl="https://espn.com"/>
+      <outline type="rss" text="Sportsnet" title="Sportsnet" xmlUrl="https://www.sportsnet.ca/feed/" htmlUrl="https://sportsnet.ca"/>
+      <outline type="rss" text="Yahoo Sports" title="Yahoo Sports" xmlUrl="https://sports.yahoo.com/rss/" htmlUrl="https://sports.yahoo.com"/>
+      <outline type="rss" text="Bundesliga (Official)" title="Bundesliga (Official)" xmlUrl="https://www.bundesliga.com/en/bundesliga/feed/rss" htmlUrl="https://bundesliga.com"/>
+      <outline type="rss" text="Eurohoops" title="Eurohoops" xmlUrl="https://www.eurohoops.net/en/feed/" htmlUrl="https://eurohoops.net"/>
+      <outline type="rss" text="Just Women's Sports" title="Just Women's Sports" xmlUrl="https://justwomenssports.com/feed/" htmlUrl="https://justwomenssports.com"/>
+      <outline type="rss" text="MLB.com" title="MLB.com" xmlUrl="https://www.mlb.com/feeds/news/rss.xml" htmlUrl="https://mlb.com"/>
+      <outline type="rss" text="Sky Sports" title="Sky Sports" xmlUrl="https://www.skysports.com/rss/12040" htmlUrl="https://skysports.com"/>
+      <outline type="rss" text="Andscape" title="Andscape" xmlUrl="https://andscape.com/feed/" htmlUrl="https://andscape.com"/>
+      <outline type="rss" text="Formula 1 (Official)" title="Formula 1 (Official)" xmlUrl="https://www.formula1.com/en/latest/all.xml" htmlUrl="https://formula1.com"/>
+      <outline type="rss" text="MMA Fighting" title="MMA Fighting" xmlUrl="https://www.mmafighting.com/rss/index.xml" htmlUrl="https://mmafighting.com"/>
+      <outline type="rss" text="ProFootballTalk" title="ProFootballTalk" xmlUrl="https://profootballtalk.nbcsports.com/feed/" htmlUrl="https://nbcsports.com"/>
+      <outline type="rss" text="Fox Sports" title="Fox Sports" xmlUrl="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;size=30" htmlUrl="https://foxsports.com"/>
+      <outline type="rss" text="SB Nation" title="SB Nation" xmlUrl="https://www.sbnation.com/rss/index.xml" htmlUrl="https://sbnation.com"/>
+      <outline type="rss" text="Sport360" title="Sport360" xmlUrl="https://sport360.com/feed" htmlUrl="https://sport360.com"/>
+      <outline type="rss" text="Sportico" title="Sportico" xmlUrl="https://www.sportico.com/feed/" htmlUrl="https://sportico.com"/>
+      <outline type="rss" text="The Hockey News" title="The Hockey News" xmlUrl="https://thehockeynews.com/feed" htmlUrl="https://thehockeynews.com"/>
+    </outline>
+  </body>
+</opml>

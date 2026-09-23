@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>The Signal 500 — Science &amp; Environment — feeds.bar</title>
+    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <ownerName>FeedsBar</ownerName>
+    <ownerId>https://feeds.bar/signal-500/</ownerId>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Science &amp; Environment" title="Science &amp; Environment">
+      <outline type="rss" text="Carbon Brief" title="Carbon Brief" xmlUrl="https://www.carbonbrief.org/feed/" htmlUrl="https://carbonbrief.org"/>
+      <outline type="rss" text="Yale Environment 360" title="Yale Environment 360" xmlUrl="https://e360.yale.edu/feed.xml" htmlUrl="https://e360.yale.edu"/>
+      <outline type="rss" text="Yale Climate Connections" title="Yale Climate Connections" xmlUrl="https://yaleclimateconnections.org/feed/" htmlUrl="https://yaleclimateconnections.org"/>
+      <outline type="rss" text="NASA Breaking News" title="NASA Breaking News" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="https://nasa.gov"/>
+      <outline type="rss" text="The Narwhal" title="The Narwhal" xmlUrl="https://thenarwhal.ca/feed/" htmlUrl="https://thenarwhal.ca"/>
+      <outline type="rss" text="Mongabay" title="Mongabay" xmlUrl="https://news.mongabay.com/feed/" htmlUrl="https://news.mongabay.com"/>
+      <outline type="rss" text="Undark Magazine" title="Undark Magazine" xmlUrl="https://undark.org/feed/" htmlUrl="https://undark.org"/>
+      <outline type="rss" text="Centauri Dreams" title="Centauri Dreams" xmlUrl="https://www.centauri-dreams.org/feed/" htmlUrl="https://centauri-dreams.org"/>
+      <outline type="rss" text="Clean Energy Wire" title="Clean Energy Wire" xmlUrl="https://www.cleanenergywire.org/rss.xml" htmlUrl="https://cleanenergywire.org"/>
+      <outline type="rss" text="Knowable Magazine" title="Knowable Magazine" xmlUrl="https://knowablemagazine.org/rss" htmlUrl="https://knowablemagazine.org"/>
+      <outline type="rss" text="Dialogue Earth" title="Dialogue Earth" xmlUrl="https://dialogue.earth/en/feed/" htmlUrl="https://dialogue.earth"/>
+      <outline type="rss" text="Science Magazine" title="Science Magazine" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="https://science.org"/>
+      <outline type="rss" text="Grist" title="Grist" xmlUrl="https://grist.org/feed/" htmlUrl="https://grist.org"/>
+      <outline type="rss" text="Volts" title="Volts" xmlUrl="https://volts.wtf/feed" htmlUrl="https://volts.wtf"/>
+      <outline type="rss" text="Canary Media" title="Canary Media" xmlUrl="https://www.canarymedia.com/rss" htmlUrl="https://canarymedia.com"/>
+      <outline type="rss" text="Universe Today" title="Universe Today" xmlUrl="https://www.universetoday.com/feed/" htmlUrl="https://universetoday.com"/>
+      <outline type="rss" text="The Planetary Society" title="The Planetary Society" xmlUrl="https://www.planetary.org/rss/articles" htmlUrl="https://planetary.org"/>
+      <outline type="rss" text="Climate Home News" title="Climate Home News" xmlUrl="https://www.climatechangenews.com/feed/" htmlUrl="https://climatechangenews.com"/>
+      <outline type="rss" text="The Revelator" title="The Revelator" xmlUrl="https://therevelator.org/feed/" htmlUrl="https://therevelator.org"/>
+      <outline type="rss" text="CERN Courier" title="CERN Courier" xmlUrl="https://cerncourier.com/feed/" htmlUrl="https://cerncourier.com"/>
+      <outline type="rss" text="HEATED" title="HEATED" xmlUrl="https://heated.world/feed" htmlUrl="https://heated.world"/>
+      <outline type="rss" text="Nature News" title="Nature News" xmlUrl="http://feeds.nature.com/nature/rss/current" htmlUrl="https://nature.com"/>
+      <outline type="rss" text="pv magazine" title="pv magazine" xmlUrl="https://www.pv-magazine.com/feed/" htmlUrl="https://pv-magazine.com"/>
+      <outline type="rss" text="Phys.org" title="Phys.org" xmlUrl="https://phys.org/rss-feed/breaking/" htmlUrl="https://phys.org"/>
+      <outline type="rss" text="Audubon Magazine" title="Audubon Magazine" xmlUrl="https://www.audubon.org/rss.xml" htmlUrl="https://audubon.org"/>
+      <outline type="rss" text="British Trust for Ornithology" title="British Trust for Ornithology" xmlUrl="https://www.bto.org/rss.xml" htmlUrl="https://bto.org"/>
+      <outline type="rss" text="Eos" title="Eos" xmlUrl="https://eos.org/feed" htmlUrl="https://eos.org"/>
+      <outline type="rss" text="The Wildlife Society" title="The Wildlife Society" xmlUrl="https://www.wildlife.org/feed/" htmlUrl="https://wildlife.org"/>
+      <outline type="rss" text="BirdLife International" title="BirdLife International" xmlUrl="https://www.birdlife.org/feed/" htmlUrl="https://birdlife.org"/>
+      <outline type="rss" text="Nautilus" title="Nautilus" xmlUrl="https://nautil.us/feed/" htmlUrl="https://nautil.us"/>
+      <outline type="rss" text="Physics World" title="Physics World" xmlUrl="https://physicsworld.com/feed/" htmlUrl="https://physicsworld.com"/>
+      <outline type="rss" text="Sentient" title="Sentient" xmlUrl="https://sentientmedia.org/feed/" htmlUrl="https://sentientmedia.org"/>
+      <outline type="rss" text="Cool Green Science" title="Cool Green Science" xmlUrl="https://blog.nature.org/feed/" htmlUrl="https://blog.nature.org"/>
+      <outline type="rss" text="Eco-Business" title="Eco-Business" xmlUrl="https://www.eco-business.com/feeds/news/" htmlUrl="https://eco-business.com"/>
+      <outline type="rss" text="Scientific American" title="Scientific American" xmlUrl="https://www.scientificamerican.com/platform/syndication/rss/" htmlUrl="https://scientificamerican.com"/>
+      <outline type="rss" text="New Scientist" title="New Scientist" xmlUrl="https://www.newscientist.com/feed/home/" htmlUrl="https://newscientist.com"/>
+      <outline type="rss" text="Science Daily" title="Science Daily" xmlUrl="https://www.sciencedaily.com/rss/" htmlUrl="https://sciencedaily.com"/>
+    </outline>
+  </body>
+</opml>
