@@ -1,29 +1,29 @@
 # The Signal 500, as OPML
 
-495 news and expert sources, hand-scored, packaged as OPML so any feed reader can
+498 news and expert sources, hand-scored, packaged as OPML so any feed reader can
 import them. One file for the whole catalogue, and one per topic if you only want
 a slice.
 
-Snapshot: **2026-08-30**. Archived with a DOI: **[10.5281/zenodo.22311917](https://doi.org/10.5281/zenodo.22311917)**.
+Snapshot: **2026-09-24**. Archived with a DOI: **[10.5281/zenodo.22311917](https://doi.org/10.5281/zenodo.22311917)**.
 
 ## The packs
 
 | Pack | Sources | File |
 |---|---|---|
-| Everything | 495 | [`signal-500.opml`](opml/signal-500.opml) |
+| Everything | 498 | [`signal-500.opml`](opml/signal-500.opml) |
 | Business & Money | 43 | [`business-money.opml`](opml/business-money.opml) |
+| Culture & Arts | 42 | [`culture-arts.opml`](opml/culture-arts.opml) |
 | Style & Beauty | 42 | [`style-beauty.opml`](opml/style-beauty.opml) |
 | Tech & AI | 41 | [`tech-ai.opml`](opml/tech-ai.opml) |
-| Culture & Arts | 41 | [`culture-arts.opml`](opml/culture-arts.opml) |
 | Food & Travel | 40 | [`food-travel.opml`](opml/food-travel.opml) |
 | Home & Living | 39 | [`home-living.opml`](opml/home-living.opml) |
-| Makers | 38 | [`makers.opml`](opml/makers.opml) |
-| Science & Environment | 37 | [`science-environment.opml`](opml/science-environment.opml) |
-| World & Politics | 35 | [`world-politics.opml`](opml/world-politics.opml) |
-| Ideas & Longform | 35 | [`ideas-longform.opml`](opml/ideas-longform.opml) |
-| Health & Wellbeing | 35 | [`health-wellbeing.opml`](opml/health-wellbeing.opml) |
+| Science & Environment | 38 | [`science-environment.opml`](opml/science-environment.opml) |
+| Health & Wellbeing | 36 | [`health-wellbeing.opml`](opml/health-wellbeing.opml) |
+| Ideas & Longform | 36 | [`ideas-longform.opml`](opml/ideas-longform.opml) |
+| World & Politics | 36 | [`world-politics.opml`](opml/world-politics.opml) |
+| Breaking News | 35 | [`breaking-news.opml`](opml/breaking-news.opml) |
+| Makers | 35 | [`makers.opml`](opml/makers.opml) |
 | Sports | 35 | [`sports.opml`](opml/sports.opml) |
-| Breaking News | 34 | [`breaking-news.opml`](opml/breaking-news.opml) |
 
 ## How to use them
 

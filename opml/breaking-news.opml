@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Breaking News — feeds.bar</title>
-    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <dateCreated>Thu, 24 Sep 2026 05:10:10 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -19,28 +19,29 @@
       <outline type="rss" text="Deutsche Welle" title="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" htmlUrl="https://dw.com"/>
       <outline type="rss" text="Mail &amp; Guardian" title="Mail &amp; Guardian" xmlUrl="https://mg.co.za/rss/" htmlUrl="https://mg.co.za"/>
       <outline type="rss" text="Semafor" title="Semafor" xmlUrl="https://www.semafor.com/rss.xml" htmlUrl="https://semafor.com"/>
+      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://bbc.co.uk"/>
       <outline type="rss" text="Daily Maverick" title="Daily Maverick" xmlUrl="https://www.dailymaverick.co.za/dmrss/" htmlUrl="https://dailymaverick.co.za"/>
       <outline type="rss" text="The Guardian World" title="The Guardian World" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://theguardian.com"/>
-      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://bbc.co.uk"/>
       <outline type="rss" text="The Korea Herald" title="The Korea Herald" xmlUrl="https://www.koreaherald.com/rss/newsAll" htmlUrl="https://koreaherald.com"/>
+      <outline type="rss" text="Dawn" title="Dawn" xmlUrl="https://www.dawn.com/feeds/home" htmlUrl="https://dawn.com"/>
       <outline type="rss" text="France 24" title="France 24" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://france24.com"/>
       <outline type="rss" text="Al Jazeera" title="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://aljazeera.com"/>
+      <outline type="rss" text="The Japan Times" title="The Japan Times" xmlUrl="https://www.japantimes.co.jp/feed/" htmlUrl="https://japantimes.co.jp"/>
       <outline type="rss" text="Taipei Times" title="Taipei Times" xmlUrl="https://www.taipeitimes.com/xml/index.rss" htmlUrl="https://taipeitimes.com"/>
       <outline type="rss" text="Channel News Asia" title="Channel News Asia" xmlUrl="https://www.channelnewsasia.com/rssfeeds/8395986" htmlUrl="https://channelnewsasia.com"/>
-      <outline type="rss" text="The Japan Times" title="The Japan Times" xmlUrl="https://www.japantimes.co.jp/feed/" htmlUrl="https://japantimes.co.jp"/>
-      <outline type="rss" text="The Washington Post – World" title="The Washington Post – World" xmlUrl="https://feeds.washingtonpost.com/rss/world" htmlUrl="https://washingtonpost.com"/>
-      <outline type="rss" text="ABC News International" title="ABC News International" xmlUrl="https://abcnews.go.com/abcnews/internationalheadlines" htmlUrl="https://abcnews.go.com"/>
       <outline type="rss" text="Der Spiegel International" title="Der Spiegel International" xmlUrl="https://www.spiegel.de/international/index.rss" htmlUrl="https://spiegel.de"/>
+      <outline type="rss" text="ABC News International" title="ABC News International" xmlUrl="https://abcnews.go.com/abcnews/internationalheadlines" htmlUrl="https://abcnews.go.com"/>
+      <outline type="rss" text="The Washington Post – World" title="The Washington Post – World" xmlUrl="https://feeds.washingtonpost.com/rss/world" htmlUrl="https://washingtonpost.com"/>
       <outline type="rss" text="The Independent" title="The Independent" xmlUrl="https://www.independent.co.uk/news/world/rss" htmlUrl="https://independent.co.uk"/>
       <outline type="rss" text="CBS News" title="CBS News" xmlUrl="https://www.cbsnews.com/latest/rss/main" htmlUrl="https://cbsnews.com"/>
       <outline type="rss" text="El Pais in English" title="El Pais in English" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada" htmlUrl="https://english.elpais.com"/>
-      <outline type="rss" text="Premium Times" title="Premium Times" xmlUrl="https://www.premiumtimesng.com/feed" htmlUrl="https://premiumtimesng.com"/>
       <outline type="rss" text="Buenos Aires Times" title="Buenos Aires Times" xmlUrl="https://www.batimes.com.ar/feed" htmlUrl="https://batimes.com.ar"/>
+      <outline type="rss" text="Premium Times" title="Premium Times" xmlUrl="https://www.premiumtimesng.com/feed" htmlUrl="https://premiumtimesng.com"/>
       <outline type="rss" text="South China Morning Post" title="South China Morning Post" xmlUrl="https://www.scmp.com/rss/91/feed" htmlUrl="https://scmp.com"/>
-      <outline type="rss" text="MercoPress" title="MercoPress" xmlUrl="https://en.mercopress.com/rss/" htmlUrl="https://en.mercopress.com"/>
       <outline type="rss" text="All Africa" title="All Africa" xmlUrl="https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf" htmlUrl="https://allafrica.com"/>
-      <outline type="rss" text="Euronews" title="Euronews" xmlUrl="https://www.euronews.com/rss?level=theme&amp;name=news" htmlUrl="https://euronews.com"/>
+      <outline type="rss" text="MercoPress" title="MercoPress" xmlUrl="https://en.mercopress.com/rss/" htmlUrl="https://en.mercopress.com"/>
       <outline type="rss" text="The Hindu – International" title="The Hindu – International" xmlUrl="https://www.thehindu.com/news/international/feeder/default.rss" htmlUrl="https://thehindu.com"/>
+      <outline type="rss" text="Euronews" title="Euronews" xmlUrl="https://www.euronews.com/rss?level=theme&amp;name=news" htmlUrl="https://euronews.com"/>
       <outline type="rss" text="NY Post" title="NY Post" xmlUrl="https://nypost.com/feed/" htmlUrl="https://nypost.com"/>
       <outline type="rss" text="Toronto Sun" title="Toronto Sun" xmlUrl="https://torontosun.com/feed" htmlUrl="https://torontosun.com"/>
     </outline>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — World &amp; Politics — feeds.bar</title>
-    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <dateCreated>Thu, 24 Sep 2026 05:10:10 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -11,29 +11,29 @@
     <outline text="World &amp; Politics" title="World &amp; Politics">
       <outline type="rss" text="ProPublica" title="ProPublica" xmlUrl="https://www.propublica.org/feeds/propublica/main" htmlUrl="https://propublica.org"/>
       <outline type="rss" text="Bellingcat" title="Bellingcat" xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://bellingcat.com"/>
-      <outline type="rss" text="Rest of World" title="Rest of World" xmlUrl="https://restofworld.org/feed/latest/" htmlUrl="https://restofworld.org"/>
       <outline type="rss" text="The Marshall Project" title="The Marshall Project" xmlUrl="https://www.themarshallproject.org/rss/recent.rss" htmlUrl="https://themarshallproject.org"/>
-      <outline type="rss" text="Balkan Insight" title="Balkan Insight" xmlUrl="https://balkaninsight.com/feed/" htmlUrl="https://balkaninsight.com"/>
+      <outline type="rss" text="Rest of World" title="Rest of World" xmlUrl="https://restofworld.org/feed/latest/" htmlUrl="https://restofworld.org"/>
       <outline type="rss" text="Just Security" title="Just Security" xmlUrl="https://www.justsecurity.org/feed/" htmlUrl="https://justsecurity.org"/>
+      <outline type="rss" text="Balkan Insight" title="Balkan Insight" xmlUrl="https://balkaninsight.com/feed/" htmlUrl="https://balkaninsight.com"/>
       <outline type="rss" text="The Conversation (Global)" title="The Conversation (Global)" xmlUrl="https://theconversation.com/global/articles.atom" htmlUrl="https://theconversation.com"/>
       <outline type="rss" text="ECFR (European Council on Foreign Relations)" title="ECFR (European Council on Foreign Relations)" xmlUrl="https://ecfr.eu/feed/" htmlUrl="https://ecfr.eu"/>
       <outline type="rss" text="The Bulwark" title="The Bulwark" xmlUrl="https://www.thebulwark.com/feed" htmlUrl="https://thebulwark.com"/>
-      <outline type="rss" text="The New Humanitarian" title="The New Humanitarian" xmlUrl="https://www.thenewhumanitarian.org/rss.xml" htmlUrl="https://thenewhumanitarian.org"/>
-      <outline type="rss" text="openDemocracy" title="openDemocracy" xmlUrl="https://www.opendemocracy.net/rss/" htmlUrl="https://opendemocracy.net"/>
       <outline type="rss" text="Coda Story" title="Coda Story" xmlUrl="https://www.codastory.com/feed/" htmlUrl="https://codastory.com"/>
       <outline type="rss" text="The Intercept" title="The Intercept" xmlUrl="https://theintercept.com/feed/?rss" htmlUrl="https://theintercept.com"/>
+      <outline type="rss" text="The New Humanitarian" title="The New Humanitarian" xmlUrl="https://www.thenewhumanitarian.org/rss.xml" htmlUrl="https://thenewhumanitarian.org"/>
+      <outline type="rss" text="openDemocracy" title="openDemocracy" xmlUrl="https://www.opendemocracy.net/rss/" htmlUrl="https://opendemocracy.net"/>
       <outline type="rss" text="Global Voices" title="Global Voices" xmlUrl="https://globalvoices.org/feed/" htmlUrl="https://globalvoices.org"/>
       <outline type="rss" text="Democracy Now!" title="Democracy Now!" xmlUrl="https://www.democracynow.org/democracynow.rss" htmlUrl="https://democracynow.org"/>
       <outline type="rss" text="Slow Boring" title="Slow Boring" xmlUrl="https://www.slowboring.com/feed" htmlUrl="https://slowboring.com"/>
-      <outline type="rss" text="Foreign Affairs" title="Foreign Affairs" xmlUrl="https://www.foreignaffairs.com/rss.xml" htmlUrl="https://foreignaffairs.com"/>
-      <outline type="rss" text="Responsible Statecraft" title="Responsible Statecraft" xmlUrl="https://responsiblestatecraft.org/feed/" htmlUrl="https://responsiblestatecraft.org"/>
       <outline type="rss" text="ASPI The Strategist" title="ASPI The Strategist" xmlUrl="https://www.aspistrategist.org.au/feed/" htmlUrl="https://aspistrategist.org.au"/>
+      <outline type="rss" text="Responsible Statecraft" title="Responsible Statecraft" xmlUrl="https://responsiblestatecraft.org/feed/" htmlUrl="https://responsiblestatecraft.org"/>
       <outline type="rss" text="Drop Site News" title="Drop Site News" xmlUrl="https://www.dropsitenews.com/feed" htmlUrl="https://dropsitenews.com"/>
-      <outline type="rss" text="Project Syndicate" title="Project Syndicate" xmlUrl="https://www.project-syndicate.org/rss" htmlUrl="https://project-syndicate.org"/>
+      <outline type="rss" text="Foreign Affairs" title="Foreign Affairs" xmlUrl="https://www.foreignaffairs.com/rss.xml" htmlUrl="https://foreignaffairs.com"/>
       <outline type="rss" text="War on the Rocks" title="War on the Rocks" xmlUrl="https://warontherocks.com/feed/" htmlUrl="https://warontherocks.com"/>
+      <outline type="rss" text="Project Syndicate" title="Project Syndicate" xmlUrl="https://www.project-syndicate.org/rss" htmlUrl="https://project-syndicate.org"/>
       <outline type="rss" text="Foreign Policy" title="Foreign Policy" xmlUrl="https://foreignpolicy.com/feed/" htmlUrl="https://foreignpolicy.com"/>
-      <outline type="rss" text="Reason" title="Reason" xmlUrl="https://reason.com/feed/" htmlUrl="https://reason.com"/>
       <outline type="rss" text="Jacobin" title="Jacobin" xmlUrl="https://jacobin.com/feed/" htmlUrl="https://jacobin.com"/>
+      <outline type="rss" text="Reason" title="Reason" xmlUrl="https://reason.com/feed/" htmlUrl="https://reason.com"/>
       <outline type="rss" text="Persuasion" title="Persuasion" xmlUrl="https://www.persuasion.community/feed" htmlUrl="https://persuasion.community"/>
       <outline type="rss" text="The American Conservative" title="The American Conservative" xmlUrl="https://www.theamericanconservative.com/feed/" htmlUrl="https://theamericanconservative.com"/>
       <outline type="rss" text="The Economist – International" title="The Economist – International" xmlUrl="https://www.economist.com/international/rss.xml" htmlUrl="https://economist.com"/>
@@ -42,6 +42,7 @@
       <outline type="rss" text="The Atlantic" title="The Atlantic" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl="https://theatlantic.com"/>
       <outline type="rss" text="UnHerd" title="UnHerd" xmlUrl="https://unherd.com/feed/" htmlUrl="https://unherd.com"/>
       <outline type="rss" text="Al-Monitor" title="Al-Monitor" xmlUrl="https://www.al-monitor.com/rss" htmlUrl="https://al-monitor.com"/>
+      <outline type="rss" text="Le Monde diplomatique (English)" title="Le Monde diplomatique (English)" xmlUrl="https://mondediplo.com/backend" htmlUrl="https://mondediplo.com"/>
       <outline type="rss" text="GZERO Media" title="GZERO Media" xmlUrl="https://www.gzeromedia.com/feeds/feed.rss" htmlUrl="https://gzeromedia.com"/>
       <outline type="rss" text="Middle East Eye" title="Middle East Eye" xmlUrl="https://www.middleeasteye.net/rss" htmlUrl="https://middleeasteye.net"/>
     </outline>

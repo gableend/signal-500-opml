@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Culture &amp; Arts — feeds.bar</title>
-    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <dateCreated>Thu, 24 Sep 2026 05:10:10 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -10,28 +10,28 @@
   <body>
     <outline text="Culture &amp; Arts" title="Culture &amp; Arts">
       <outline type="rss" text="JSTOR Daily" title="JSTOR Daily" xmlUrl="https://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org"/>
-      <outline type="rss" text="London Review of Books" title="London Review of Books" xmlUrl="https://www.lrb.co.uk/feeds/rss" htmlUrl="https://lrb.co.uk"/>
       <outline type="rss" text="The Quietus" title="The Quietus" xmlUrl="https://thequietus.com/feed" htmlUrl="https://thequietus.com"/>
-      <outline type="rss" text="Bandcamp Daily" title="Bandcamp Daily" xmlUrl="https://daily.bandcamp.com/feed" htmlUrl="https://daily.bandcamp.com"/>
       <outline type="rss" text="Hyperallergic" title="Hyperallergic" xmlUrl="https://hyperallergic.com/feed/" htmlUrl="https://hyperallergic.com"/>
+      <outline type="rss" text="London Review of Books" title="London Review of Books" xmlUrl="https://www.lrb.co.uk/feeds/rss" htmlUrl="https://lrb.co.uk"/>
       <outline type="rss" text="The Paris Review" title="The Paris Review" xmlUrl="https://www.theparisreview.org/blog/feed/" htmlUrl="https://theparisreview.org"/>
       <outline type="rss" text="3:AM Magazine" title="3:AM Magazine" xmlUrl="https://www.3ammagazine.com/3am/feed/" htmlUrl="https://3ammagazine.com"/>
       <outline type="rss" text="Angry Metal Guy" title="Angry Metal Guy" xmlUrl="https://www.angrymetalguy.com/feed/" htmlUrl="https://angrymetalguy.com"/>
       <outline type="rss" text="Asymptote" title="Asymptote" xmlUrl="https://www.asymptotejournal.com/blog/feed/" htmlUrl="https://asymptotejournal.com"/>
+      <outline type="rss" text="Bandcamp Daily" title="Bandcamp Daily" xmlUrl="https://daily.bandcamp.com/feed" htmlUrl="https://daily.bandcamp.com"/>
+      <outline type="rss" text="Senses of Cinema" title="Senses of Cinema" xmlUrl="https://sensesofcinema.com/feed/" htmlUrl="https://sensesofcinema.com"/>
+      <outline type="rss" text="Aquarium Drunkard" title="Aquarium Drunkard" xmlUrl="https://aquariumdrunkard.com/feed/" htmlUrl="https://aquariumdrunkard.com"/>
+      <outline type="rss" text="Colossal" title="Colossal" xmlUrl="https://www.thisiscolossal.com/feed/" htmlUrl="https://thisiscolossal.com"/>
+      <outline type="rss" text="MUBI Notebook" title="MUBI Notebook" xmlUrl="https://mubi.com/notebook/posts.rss" htmlUrl="https://mubi.com"/>
       <outline type="rss" text="The New York Review of Books" title="The New York Review of Books" xmlUrl="http://feeds.feedburner.com/nybooks" htmlUrl="https://nybooks.com"/>
       <outline type="rss" text="Two Coats of Paint" title="Two Coats of Paint" xmlUrl="https://twocoatsofpaint.com/feed" htmlUrl="https://twocoatsofpaint.com"/>
-      <outline type="rss" text="Aquarium Drunkard" title="Aquarium Drunkard" xmlUrl="https://aquariumdrunkard.com/feed/" htmlUrl="https://aquariumdrunkard.com"/>
-      <outline type="rss" text="MUBI Notebook" title="MUBI Notebook" xmlUrl="https://mubi.com/notebook/posts.rss" htmlUrl="https://mubi.com"/>
-      <outline type="rss" text="Slant Magazine" title="Slant Magazine" xmlUrl="https://www.slantmagazine.com/feed/" htmlUrl="https://slantmagazine.com"/>
       <outline type="rss" text="The Wire" title="The Wire" xmlUrl="https://www.thewire.co.uk/home/rss" htmlUrl="https://thewire.co.uk"/>
-      <outline type="rss" text="Colossal" title="Colossal" xmlUrl="https://www.thisiscolossal.com/feed/" htmlUrl="https://thisiscolossal.com"/>
       <outline type="rss" text="Words Without Borders" title="Words Without Borders" xmlUrl="https://wordswithoutborders.org/feed/" htmlUrl="https://wordswithoutborders.org"/>
+      <outline type="rss" text="Slant Magazine" title="Slant Magazine" xmlUrl="https://www.slantmagazine.com/feed/" htmlUrl="https://slantmagazine.com"/>
+      <outline type="rss" text="Kirkus Reviews" title="Kirkus Reviews" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" htmlUrl="https://kirkusreviews.com"/>
       <outline type="rss" text="Aperture" title="Aperture" xmlUrl="https://aperture.org/feed/" htmlUrl="https://aperture.org"/>
       <outline type="rss" text="The Art Newspaper" title="The Art Newspaper" xmlUrl="https://www.theartnewspaper.com/rss.xml" htmlUrl="https://theartnewspaper.com"/>
-      <outline type="rss" text="Kirkus Reviews" title="Kirkus Reviews" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" htmlUrl="https://kirkusreviews.com"/>
       <outline type="rss" text="Film Comment" title="Film Comment" xmlUrl="https://www.filmcomment.com/feed/" htmlUrl="https://filmcomment.com"/>
       <outline type="rss" text="Momus" title="Momus" xmlUrl="https://momus.ca/feed/" htmlUrl="https://momus.ca"/>
-      <outline type="rss" text="Stereogum" title="Stereogum" xmlUrl="https://www.stereogum.com/feed/" htmlUrl="https://stereogum.com"/>
       <outline type="rss" text="Contemporary Art Daily" title="Contemporary Art Daily" xmlUrl="https://www.contemporaryartdaily.com/feed" htmlUrl="https://contemporaryartdaily.com"/>
       <outline type="rss" text="The Offing" title="The Offing" xmlUrl="https://theoffingmag.com/feed/" htmlUrl="https://theoffingmag.com"/>
       <outline type="rss" text="Berlin Art Link" title="Berlin Art Link" xmlUrl="https://www.berlinartlink.com/feed/" htmlUrl="https://berlinartlink.com"/>
@@ -41,14 +41,15 @@
       <outline type="rss" text="PopMatters" title="PopMatters" xmlUrl="https://www.popmatters.com/feed" htmlUrl="https://popmatters.com"/>
       <outline type="rss" text="Granta" title="Granta" xmlUrl="https://granta.com/feed/" htmlUrl="https://granta.com"/>
       <outline type="rss" text="No Depression" title="No Depression" xmlUrl="https://www.nodepression.com/feed/" htmlUrl="https://nodepression.com"/>
+      <outline type="rss" text="Stereogum" title="Stereogum" xmlUrl="https://www.stereogum.com/feed/" htmlUrl="https://stereogum.com"/>
       <outline type="rss" text="The Film Stage" title="The Film Stage" xmlUrl="https://thefilmstage.com/feed/" htmlUrl="https://thefilmstage.com"/>
       <outline type="rss" text="Chess.com News" title="Chess.com News" xmlUrl="https://www.chess.com/rss/news" htmlUrl="https://chess.com"/>
       <outline type="rss" text="DJ Mag" title="DJ Mag" xmlUrl="https://djmag.com/rss.xml" htmlUrl="https://djmag.com"/>
       <outline type="rss" text="Little White Lies" title="Little White Lies" xmlUrl="https://lwlies.com/feed/" htmlUrl="https://lwlies.com"/>
       <outline type="rss" text="NPR Music" title="NPR Music" xmlUrl="https://feeds.npr.org/1039/rss.xml" htmlUrl="https://npr.org"/>
       <outline type="rss" text="TheWrap" title="TheWrap" xmlUrl="https://www.thewrap.com/feed/" htmlUrl="https://thewrap.com"/>
-      <outline type="rss" text="NME" title="NME" xmlUrl="https://www.nme.com/feed" htmlUrl="https://nme.com"/>
       <outline type="rss" text="Inside Intercom" title="Inside Intercom" xmlUrl="https://www.intercom.com/blog/feed/" htmlUrl="https://intercom.com"/>
+      <outline type="rss" text="NME" title="NME" xmlUrl="https://www.nme.com/feed" htmlUrl="https://nme.com"/>
       <outline type="rss" text="Pitchfork" title="Pitchfork" xmlUrl="https://pitchfork.com/feed/feed-news/rss" htmlUrl="https://pitchfork.com"/>
     </outline>
   </body>

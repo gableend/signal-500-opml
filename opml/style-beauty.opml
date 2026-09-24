@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Style &amp; Beauty — feeds.bar</title>
-    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <dateCreated>Thu, 24 Sep 2026 05:10:10 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -10,46 +10,46 @@
   <body>
     <outline text="Style &amp; Beauty" title="Style &amp; Beauty">
       <outline type="rss" text="Permanent Style" title="Permanent Style" xmlUrl="https://www.permanentstyle.com/feed" htmlUrl="https://permanentstyle.com"/>
-      <outline type="rss" text="Lab Muffin Beauty Science" title="Lab Muffin Beauty Science" xmlUrl="https://labmuffin.com/feed/" htmlUrl="https://labmuffin.com"/>
       <outline type="rss" text="The Art of Manliness" title="The Art of Manliness" xmlUrl="https://www.artofmanliness.com/feed/" htmlUrl="https://artofmanliness.com"/>
+      <outline type="rss" text="Lab Muffin Beauty Science" title="Lab Muffin Beauty Science" xmlUrl="https://labmuffin.com/feed/" htmlUrl="https://labmuffin.com"/>
       <outline type="rss" text="British Beauty Blogger" title="British Beauty Blogger" xmlUrl="https://www.britishbeautyblogger.com/feed" htmlUrl="https://britishbeautyblogger.com"/>
       <outline type="rss" text="Capitol Hill Style" title="Capitol Hill Style" xmlUrl="https://caphillstyle.com/feed/" htmlUrl="https://caphillstyle.com"/>
-      <outline type="rss" text="Gentleman's Gazette" title="Gentleman's Gazette" xmlUrl="https://www.gentlemansgazette.com/feed/" htmlUrl="https://gentlemansgazette.com"/>
       <outline type="rss" text="Good On You" title="Good On You" xmlUrl="https://goodonyou.eco/feed/" htmlUrl="https://goodonyou.eco"/>
-      <outline type="rss" text="Bois de Jasmin" title="Bois de Jasmin" xmlUrl="https://boisdejasmin.com/feed" htmlUrl="https://boisdejasmin.com"/>
+      <outline type="rss" text="Gentleman's Gazette" title="Gentleman's Gazette" xmlUrl="https://www.gentlemansgazette.com/feed/" htmlUrl="https://gentlemansgazette.com"/>
       <outline type="rss" text="The Beauty Look Book" title="The Beauty Look Book" xmlUrl="https://www.thebeautylookbook.com/feed" htmlUrl="https://thebeautylookbook.com"/>
+      <outline type="rss" text="Bois de Jasmin" title="Bois de Jasmin" xmlUrl="https://boisdejasmin.com/feed" htmlUrl="https://boisdejasmin.com"/>
       <outline type="rss" text="Cafleurebon" title="Cafleurebon" xmlUrl="https://www.cafleurebon.com/feed/" htmlUrl="https://cafleurebon.com"/>
       <outline type="rss" text="Dazed" title="Dazed" xmlUrl="https://www.dazeddigital.com/rss" htmlUrl="https://dazeddigital.com"/>
       <outline type="rss" text="Put This On" title="Put This On" xmlUrl="https://putthison.com/rss" htmlUrl="https://putthison.com"/>
+      <outline type="rss" text="He Spoke Style" title="He Spoke Style" xmlUrl="https://hespokestyle.com/feed/" htmlUrl="https://hespokestyle.com"/>
       <outline type="rss" text="Corporette" title="Corporette" xmlUrl="https://corporette.com/feed/" htmlUrl="https://corporette.com"/>
       <outline type="rss" text="Now Smell This" title="Now Smell This" xmlUrl="https://nstperfume.com/feed/" htmlUrl="https://nstperfume.com"/>
       <outline type="rss" text="Primer Magazine" title="Primer Magazine" xmlUrl="https://primermagazine.com/feed" htmlUrl="https://primermagazine.com"/>
       <outline type="rss" text="Dappered" title="Dappered" xmlUrl="https://dappered.com/feed/" htmlUrl="https://dappered.com"/>
-      <outline type="rss" text="He Spoke Style" title="He Spoke Style" xmlUrl="https://hespokestyle.com/feed/" htmlUrl="https://hespokestyle.com"/>
-      <outline type="rss" text="The Modest Man" title="The Modest Man" xmlUrl="https://www.themodestman.com/feed/" htmlUrl="https://themodestman.com"/>
-      <outline type="rss" text="Sharpologist" title="Sharpologist" xmlUrl="https://sharpologist.com/feed/" htmlUrl="https://sharpologist.com"/>
-      <outline type="rss" text="Modepilot" title="Modepilot" xmlUrl="https://modepilot.de/feed" htmlUrl="https://modepilot.de"/>
       <outline type="rss" text="Hypebeast" title="Hypebeast" xmlUrl="https://feeds.feedburner.com/hypebeast/feed" htmlUrl="https://hypebeast.com"/>
-      <outline type="rss" text="Real Men Real Style" title="Real Men Real Style" xmlUrl="https://www.realmenrealstyle.com/feed/" htmlUrl="https://realmenrealstyle.com"/>
-      <outline type="rss" text="Really Ree" title="Really Ree" xmlUrl="https://reallyree.com/feed/" htmlUrl="https://reallyree.com"/>
-      <outline type="rss" text="Fucking Young!" title="Fucking Young!" xmlUrl="https://fuckingyoung.es/feed/" htmlUrl="https://fuckingyoung.es"/>
+      <outline type="rss" text="The Modest Man" title="The Modest Man" xmlUrl="https://www.themodestman.com/feed/" htmlUrl="https://themodestman.com"/>
       <outline type="rss" text="A Continuous Lean" title="A Continuous Lean" xmlUrl="https://www.acontinuouslean.com/feed/" htmlUrl="https://acontinuouslean.com"/>
-      <outline type="rss" text="Beautiful With Brains" title="Beautiful With Brains" xmlUrl="https://www.beautifulwithbrains.com/feed/" htmlUrl="https://beautifulwithbrains.com"/>
-      <outline type="rss" text="Highsnobiety" title="Highsnobiety" xmlUrl="https://www.highsnobiety.com/feed/" htmlUrl="https://highsnobiety.com"/>
+      <outline type="rss" text="Modepilot" title="Modepilot" xmlUrl="https://modepilot.de/feed" htmlUrl="https://modepilot.de"/>
+      <outline type="rss" text="Sharpologist" title="Sharpologist" xmlUrl="https://sharpologist.com/feed/" htmlUrl="https://sharpologist.com"/>
+      <outline type="rss" text="Fucking Young!" title="Fucking Young!" xmlUrl="https://fuckingyoung.es/feed/" htmlUrl="https://fuckingyoung.es"/>
+      <outline type="rss" text="Fashionista" title="Fashionista" xmlUrl="https://fashionista.com/feed" htmlUrl="https://fashionista.com"/>
+      <outline type="rss" text="Really Ree" title="Really Ree" xmlUrl="https://reallyree.com/feed/" htmlUrl="https://reallyree.com"/>
+      <outline type="rss" text="Real Men Real Style" title="Real Men Real Style" xmlUrl="https://www.realmenrealstyle.com/feed/" htmlUrl="https://realmenrealstyle.com"/>
       <outline type="rss" text="i-D" title="i-D" xmlUrl="https://i-d.co/feed" htmlUrl="https://i-d.co"/>
       <outline type="rss" text="Nowness" title="Nowness" xmlUrl="https://www.nowness.com/rss" htmlUrl="https://nowness.com"/>
-      <outline type="rss" text="Ape to Gentleman" title="Ape to Gentleman" xmlUrl="https://www.apetogentleman.com/feed/" htmlUrl="https://apetogentleman.com"/>
-      <outline type="rss" text="Disneyrollergirl" title="Disneyrollergirl" xmlUrl="https://disneyrollergirl.net/feed/" htmlUrl="https://disneyrollergirl.net"/>
-      <outline type="rss" text="Fashionista" title="Fashionista" xmlUrl="https://fashionista.com/feed" htmlUrl="https://fashionista.com"/>
-      <outline type="rss" text="Harper's Bazaar" title="Harper's Bazaar" xmlUrl="https://www.harpersbazaar.com/rss/all.xml/" htmlUrl="https://harpersbazaar.com"/>
-      <outline type="rss" text="15 Minute Beauty" title="15 Minute Beauty" xmlUrl="https://www.15minutebeauty.com/feed/" htmlUrl="https://15minutebeauty.com"/>
       <outline type="rss" text="Perfume Posse" title="Perfume Posse" xmlUrl="https://perfumeposse.com/feed/" htmlUrl="https://perfumeposse.com"/>
+      <outline type="rss" text="Harper's Bazaar" title="Harper's Bazaar" xmlUrl="https://www.harpersbazaar.com/rss/all.xml/" htmlUrl="https://harpersbazaar.com"/>
+      <outline type="rss" text="Highsnobiety" title="Highsnobiety" xmlUrl="https://www.highsnobiety.com/feed/" htmlUrl="https://highsnobiety.com"/>
       <outline type="rss" text="Tom &amp; Lorenzo" title="Tom &amp; Lorenzo" xmlUrl="https://tomandlorenzo.com/feed/" htmlUrl="https://tomandlorenzo.com"/>
+      <outline type="rss" text="Ape to Gentleman" title="Ape to Gentleman" xmlUrl="https://www.apetogentleman.com/feed/" htmlUrl="https://apetogentleman.com"/>
+      <outline type="rss" text="Beautiful With Brains" title="Beautiful With Brains" xmlUrl="https://www.beautifulwithbrains.com/feed/" htmlUrl="https://beautifulwithbrains.com"/>
+      <outline type="rss" text="Disneyrollergirl" title="Disneyrollergirl" xmlUrl="https://disneyrollergirl.net/feed/" htmlUrl="https://disneyrollergirl.net"/>
+      <outline type="rss" text="15 Minute Beauty" title="15 Minute Beauty" xmlUrl="https://www.15minutebeauty.com/feed/" htmlUrl="https://15minutebeauty.com"/>
       <outline type="rss" text="WWD (Women's Wear Daily)" title="WWD (Women's Wear Daily)" xmlUrl="https://wwd.com/feed/" htmlUrl="https://wwd.com"/>
       <outline type="rss" text="Elle" title="Elle" xmlUrl="https://www.elle.com/rss/all.xml/" htmlUrl="https://elle.com"/>
       <outline type="rss" text="Vogue" title="Vogue" xmlUrl="https://www.vogue.com/feed/rss" htmlUrl="https://vogue.com"/>
-      <outline type="rss" text="GQ" title="GQ" xmlUrl="https://www.gq.com/feed/rss" htmlUrl="https://gq.com"/>
       <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/en-us/rss.xml" htmlUrl="https://refinery29.com"/>
+      <outline type="rss" text="GQ" title="GQ" xmlUrl="https://www.gq.com/feed/rss" htmlUrl="https://gq.com"/>
       <outline type="rss" text="Glamour" title="Glamour" xmlUrl="https://www.glamour.com/feed/rss" htmlUrl="https://glamour.com"/>
     </outline>
   </body>

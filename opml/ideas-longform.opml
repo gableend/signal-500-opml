@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Ideas &amp; Longform — feeds.bar</title>
-    <dateCreated>Wed, 23 Sep 2026 21:11:12 GMT</dateCreated>
+    <dateCreated>Thu, 24 Sep 2026 05:10:10 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -13,37 +13,38 @@
       <outline type="rss" text="Aeon" title="Aeon" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co"/>
       <outline type="rss" text="Paul Graham: Essays" title="Paul Graham: Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="https://paulgraham.com"/>
       <outline type="rss" text="Psyche" title="Psyche" xmlUrl="https://psyche.co/feed" htmlUrl="https://psyche.co"/>
+      <outline type="rss" text="The Pudding" title="The Pudding" xmlUrl="https://pudding.cool/rss.xml" htmlUrl="https://pudding.cool"/>
+      <outline type="rss" text="Construction Physics" title="Construction Physics" xmlUrl="https://www.construction-physics.com/feed" htmlUrl="https://construction-physics.com"/>
       <outline type="rss" text="Public Domain Review" title="Public Domain Review" xmlUrl="https://publicdomainreview.org/rss.xml" htmlUrl="https://publicdomainreview.org"/>
       <outline type="rss" text="Astral Codex Ten" title="Astral Codex Ten" xmlUrl="https://www.astralcodexten.com/feed" htmlUrl="https://astralcodexten.com"/>
-      <outline type="rss" text="Construction Physics" title="Construction Physics" xmlUrl="https://www.construction-physics.com/feed" htmlUrl="https://construction-physics.com"/>
-      <outline type="rss" text="The Pudding" title="The Pudding" xmlUrl="https://pudding.cool/rss.xml" htmlUrl="https://pudding.cool"/>
       <outline type="rss" text="Experimental History" title="Experimental History" xmlUrl="https://www.experimental-history.com/feed" htmlUrl="https://experimental-history.com"/>
+      <outline type="rss" text="The Honest Broker" title="The Honest Broker" xmlUrl="https://www.honest-broker.com/feed" htmlUrl="https://honest-broker.com"/>
       <outline type="rss" text="Africa Is a Country" title="Africa Is a Country" xmlUrl="https://africasacountry.com/feed" htmlUrl="https://africasacountry.com"/>
       <outline type="rss" text="Guernica" title="Guernica" xmlUrl="https://www.guernicamag.com/feed/" htmlUrl="https://guernicamag.com"/>
-      <outline type="rss" text="The Honest Broker" title="The Honest Broker" xmlUrl="https://www.honest-broker.com/feed" htmlUrl="https://honest-broker.com"/>
       <outline type="rss" text="Longreads" title="Longreads" xmlUrl="https://longreads.com/feed/" htmlUrl="https://longreads.com"/>
+      <outline type="rss" text="Noahpinion" title="Noahpinion" xmlUrl="https://www.noahpinion.blog/feed" htmlUrl="https://noahpinion.blog"/>
       <outline type="rss" text="The Diff" title="The Diff" xmlUrl="https://www.thediff.co/archive/rss/" htmlUrl="https://thediff.co"/>
       <outline type="rss" text="Chartbook" title="Chartbook" xmlUrl="https://adamtooze.substack.com/feed" htmlUrl="https://adamtooze.substack.com"/>
-      <outline type="rss" text="Noahpinion" title="Noahpinion" xmlUrl="https://www.noahpinion.blog/feed" htmlUrl="https://noahpinion.blog"/>
       <outline type="rss" text="Noema Magazine" title="Noema Magazine" xmlUrl="https://www.noemamag.com/feed/" htmlUrl="https://noemamag.com"/>
-      <outline type="rss" text="The Convivial Society" title="The Convivial Society" xmlUrl="https://theconvivialsociety.substack.com/feed" htmlUrl="https://theconvivialsociety.substack.com"/>
-      <outline type="rss" text="Dissent" title="Dissent" xmlUrl="https://www.dissentmagazine.org/feed" htmlUrl="https://dissentmagazine.org"/>
       <outline type="rss" text="Farnam Street" title="Farnam Street" xmlUrl="https://fs.blog/feed/" htmlUrl="https://fs.blog"/>
       <outline type="rss" text="The Browser" title="The Browser" xmlUrl="https://thebrowser.com/free/rss/" htmlUrl="https://thebrowser.com"/>
+      <outline type="rss" text="The Convivial Society" title="The Convivial Society" xmlUrl="https://theconvivialsociety.substack.com/feed" htmlUrl="https://theconvivialsociety.substack.com"/>
+      <outline type="rss" text="Dissent" title="Dissent" xmlUrl="https://www.dissentmagazine.org/feed" htmlUrl="https://dissentmagazine.org"/>
+      <outline type="rss" text="The American Scholar" title="The American Scholar" xmlUrl="https://theamericanscholar.org/feed/" htmlUrl="https://theamericanscholar.org"/>
       <outline type="rss" text="Vittles" title="Vittles" xmlUrl="https://www.vittlesmagazine.com/feed" htmlUrl="https://vittlesmagazine.com"/>
       <outline type="rss" text="Eurozine" title="Eurozine" xmlUrl="https://www.eurozine.com/feed/" htmlUrl="https://eurozine.com"/>
       <outline type="rss" text="Mada Masr" title="Mada Masr" xmlUrl="https://www.madamasr.com/en/feed/" htmlUrl="https://madamasr.com"/>
       <outline type="rss" text="Sinocism" title="Sinocism" xmlUrl="https://sinocism.com/feed" htmlUrl="https://sinocism.com"/>
-      <outline type="rss" text="The American Scholar" title="The American Scholar" xmlUrl="https://theamericanscholar.org/feed/" htmlUrl="https://theamericanscholar.org"/>
-      <outline type="rss" text="Why Is This Interesting?" title="Why Is This Interesting?" xmlUrl="https://whyisthisinteresting.substack.com/feed" htmlUrl="https://whyisthisinteresting.substack.com"/>
       <outline type="rss" text="Asterisk" title="Asterisk" xmlUrl="https://asteriskmag.com/feed" htmlUrl="https://asteriskmag.com"/>
       <outline type="rss" text="Harper's Magazine" title="Harper's Magazine" xmlUrl="https://harpers.org/feed/" htmlUrl="https://harpers.org"/>
       <outline type="rss" text="Palladium Magazine" title="Palladium Magazine" xmlUrl="https://www.palladiummag.com/feed/" htmlUrl="https://palladiummag.com"/>
       <outline type="rss" text="The Point Magazine" title="The Point Magazine" xmlUrl="https://thepointmag.com/feed/" htmlUrl="https://thepointmag.com"/>
+      <outline type="rss" text="Why Is This Interesting?" title="Why Is This Interesting?" xmlUrl="https://whyisthisinteresting.substack.com/feed" htmlUrl="https://whyisthisinteresting.substack.com"/>
+      <outline type="rss" text="The Elephant" title="The Elephant" xmlUrl="https://www.theelephant.info/feed/" htmlUrl="https://theelephant.info"/>
       <outline type="rss" text="Blackbird Spyplane" title="Blackbird Spyplane" xmlUrl="https://www.blackbirdspyplane.com/feed" htmlUrl="https://blackbirdspyplane.com"/>
+      <outline type="rss" text="Culture Study" title="Culture Study" xmlUrl="https://annehelen.substack.com/feed" htmlUrl="https://annehelen.substack.com"/>
       <outline type="rss" text="Compact" title="Compact" xmlUrl="https://compactmag.com/feed" htmlUrl="https://compactmag.com"/>
       <outline type="rss" text="Sixth Tone" title="Sixth Tone" xmlUrl="https://www.sixthtone.com/rss" htmlUrl="https://sixthtone.com"/>
-      <outline type="rss" text="Himal Southasian" title="Himal Southasian" xmlUrl="https://www.himalmag.com/feed/" htmlUrl="https://himalmag.com"/>
     </outline>
   </body>
 </opml>
