@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Tech &amp; AI — feeds.bar</title>
-    <dateCreated>Tue, 29 Sep 2026 18:05:28 GMT</dateCreated>
+    <dateCreated>Wed, 30 Sep 2026 08:40:38 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -37,6 +37,7 @@
       <outline type="rss" text="Hackaday" title="Hackaday" xmlUrl="https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com"/>
       <outline type="rss" text="Import AI" title="Import AI" xmlUrl="https://importai.substack.com/feed" htmlUrl="https://importai.substack.com"/>
       <outline type="rss" text="IEEE Spectrum" title="IEEE Spectrum" xmlUrl="https://spectrum.ieee.org/feeds/feed.rss" htmlUrl="https://spectrum.ieee.org"/>
+      <outline type="rss" text="EleutherAI Blog" title="EleutherAI Blog" xmlUrl="https://blog.eleuther.ai/index.xml" htmlUrl="https://blog.eleuther.ai"/>
       <outline type="rss" text="The Register" title="The Register" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://theregister.com"/>
       <outline type="rss" text="Ahead of AI" title="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com"/>
       <outline type="rss" text="watchTowr Labs" title="watchTowr Labs" xmlUrl="https://labs.watchtowr.com/rss/" htmlUrl="https://labs.watchtowr.com"/>

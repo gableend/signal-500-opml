@@ -96,6 +96,26 @@ readme = readme.replace(
 );
 readme = readme.replace(/\| Pack \| Sources \| File \|[\s\S]*?(?=\n\n)/, table);
 
+// THE SNAPSHOT DATE, regenerated too. It was not, and drifted: on 2026-09-30
+// the README said "Snapshot: 2026-09-24" three lines above "Packs synced
+// 2026-09-29", two dates for one dataset in one file. The vintage of the DATA
+// is the snapshot's `generated_at`, not the day somebody ran this script, so it
+// is read from the site's own committed snapshot rather than from the clock.
+try {
+  const snap = JSON.parse(
+    readFileSync(join(site, 'src', 'data', 'signal500.json'), 'utf8'),
+  );
+  const vintage = String(snap.generated_at ?? '').slice(0, 10);
+  if (/^\d{4}-\d{2}-\d{2}$/.test(vintage)) {
+    readme = readme.replace(
+      /^Snapshot: \*\*[^*]+\*\*/m,
+      `Snapshot: **${vintage}**`,
+    );
+  }
+} catch {
+  // No snapshot file: leave the line alone rather than stamping a guess.
+}
+
 // A count without a date is a claim that silently expires.
 const today = new Date().toISOString().slice(0, 10);
 if (/^_Packs synced /m.test(readme)) {

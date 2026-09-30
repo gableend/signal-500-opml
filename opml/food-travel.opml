@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Food &amp; Travel — feeds.bar</title>
-    <dateCreated>Tue, 29 Sep 2026 18:05:28 GMT</dateCreated>
+    <dateCreated>Wed, 30 Sep 2026 08:40:38 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -30,6 +30,7 @@
       <outline type="rss" text="Rasa Malaysia" title="Rasa Malaysia" xmlUrl="https://rasamalaysia.com/feed/" htmlUrl="https://rasamalaysia.com"/>
       <outline type="rss" text="China Sichuan Food" title="China Sichuan Food" xmlUrl="https://www.chinasichuanfood.com/feed/" htmlUrl="https://chinasichuanfood.com"/>
       <outline type="rss" text="VinePair" title="VinePair" xmlUrl="https://vinepair.com/feed/" htmlUrl="https://vinepair.com"/>
+      <outline type="rss" text="Pinch of Yum" title="Pinch of Yum" xmlUrl="https://pinchofyum.com/feed/" htmlUrl="https://pinchofyum.com"/>
       <outline type="rss" text="Adventurous Kate" title="Adventurous Kate" xmlUrl="https://adventurouskate.com/feed/" htmlUrl="https://adventurouskate.com"/>
       <outline type="rss" text="Half Baked Harvest" title="Half Baked Harvest" xmlUrl="https://www.halfbakedharvest.com/feed/" htmlUrl="https://halfbakedharvest.com"/>
       <outline type="rss" text="Hungry Huy" title="Hungry Huy" xmlUrl="https://www.hungryhuy.com/feed/" htmlUrl="https://hungryhuy.com"/>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Health &amp; Wellbeing — feeds.bar</title>
-    <dateCreated>Tue, 29 Sep 2026 18:05:28 GMT</dateCreated>
+    <dateCreated>Wed, 30 Sep 2026 08:40:38 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -30,6 +30,7 @@
       <outline type="rss" text="Mark's Daily Apple" title="Mark's Daily Apple" xmlUrl="https://www.marksdailyapple.com/feed/" htmlUrl="https://marksdailyapple.com"/>
       <outline type="rss" text="Mindful" title="Mindful" xmlUrl="https://www.mindful.org/feed/" htmlUrl="https://mindful.org"/>
       <outline type="rss" text="Wellness Mama" title="Wellness Mama" xmlUrl="https://wellnessmama.com/feed/" htmlUrl="https://wellnessmama.com"/>
+      <outline type="rss" text="Mombian" title="Mombian" xmlUrl="https://mombian.com/feed/" htmlUrl="https://mombian.com"/>
       <outline type="rss" text="PositivePsychology.com" title="PositivePsychology.com" xmlUrl="https://positivepsychology.com/feed/" htmlUrl="https://positivepsychology.com"/>
       <outline type="rss" text="NHS News" title="NHS News" xmlUrl="https://www.england.nhs.uk/feed/" htmlUrl="https://england.nhs.uk"/>
       <outline type="rss" text="Precision Nutrition" title="Precision Nutrition" xmlUrl="https://www.precisionnutrition.com/feed" htmlUrl="https://precisionnutrition.com"/>

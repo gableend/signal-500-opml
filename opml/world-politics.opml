@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — World &amp; Politics — feeds.bar</title>
-    <dateCreated>Tue, 29 Sep 2026 18:05:28 GMT</dateCreated>
+    <dateCreated>Wed, 30 Sep 2026 08:40:38 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -16,6 +16,7 @@
       <outline type="rss" text="Just Security" title="Just Security" xmlUrl="https://www.justsecurity.org/feed/" htmlUrl="https://justsecurity.org"/>
       <outline type="rss" text="Balkan Insight" title="Balkan Insight" xmlUrl="https://balkaninsight.com/feed/" htmlUrl="https://balkaninsight.com"/>
       <outline type="rss" text="The Conversation (Global)" title="The Conversation (Global)" xmlUrl="https://theconversation.com/global/articles.atom" htmlUrl="https://theconversation.com"/>
+      <outline type="rss" text="ECFR (European Council on Foreign Relations)" title="ECFR (European Council on Foreign Relations)" xmlUrl="https://ecfr.eu/feed/" htmlUrl="https://ecfr.eu"/>
       <outline type="rss" text="The Bulwark" title="The Bulwark" xmlUrl="https://www.thebulwark.com/feed" htmlUrl="https://thebulwark.com"/>
       <outline type="rss" text="Coda Story" title="Coda Story" xmlUrl="https://www.codastory.com/feed/" htmlUrl="https://codastory.com"/>
       <outline type="rss" text="The Intercept" title="The Intercept" xmlUrl="https://theintercept.com/feed/?rss" htmlUrl="https://theintercept.com"/>
