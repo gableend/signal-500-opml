@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Tech &amp; AI — feeds.bar</title>
-    <dateCreated>Wed, 30 Sep 2026 17:39:22 GMT</dateCreated>
+    <dateCreated>Thu, 22 Oct 2026 16:46:42 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -19,7 +19,6 @@
       <outline type="rss" text="Benedict Evans" title="Benedict Evans" xmlUrl="https://www.ben-evans.com/benedictevans?format=rss" htmlUrl="https://ben-evans.com"/>
       <outline type="rss" text="The Markup" title="The Markup" xmlUrl="https://themarkup.org/feeds/rss.xml" htmlUrl="https://themarkup.org"/>
       <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://www.latent.space/feed" htmlUrl="https://latent.space"/>
-      <outline type="rss" text="Platformer" title="Platformer" xmlUrl="https://www.platformer.news/rss/" htmlUrl="https://platformer.news"/>
       <outline type="rss" text="Citizen Lab" title="Citizen Lab" xmlUrl="https://citizenlab.ca/feed/" htmlUrl="https://citizenlab.ca"/>
       <outline type="rss" text="Troy Hunt" title="Troy Hunt" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://troyhunt.com"/>
       <outline type="rss" text="Berkeley AI Research (BAIR) Blog" title="Berkeley AI Research (BAIR) Blog" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu"/>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>The Signal 500 — Makers — feeds.bar</title>
-    <dateCreated>Wed, 30 Sep 2026 17:39:22 GMT</dateCreated>
+    <dateCreated>Thu, 22 Oct 2026 16:46:42 GMT</dateCreated>
     <ownerName>FeedsBar</ownerName>
     <ownerId>https://feeds.bar/signal-500/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
@@ -17,6 +17,7 @@
       <outline type="rss" text="Ahmad Shadeed" title="Ahmad Shadeed" xmlUrl="https://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com"/>
       <outline type="rss" text="brandur.org" title="brandur.org" xmlUrl="https://brandur.org/atoms.atom" htmlUrl="https://brandur.org"/>
       <outline type="rss" text="Armin Ronacher (lucumr)" title="Armin Ronacher (lucumr)" xmlUrl="https://lucumr.pocoo.org/feed.atom" htmlUrl="https://lucumr.pocoo.org"/>
+      <outline type="rss" text="Codrops" title="Codrops" xmlUrl="https://tympanus.net/codrops/feed/" htmlUrl="https://tympanus.net"/>
       <outline type="rss" text="Jake Archibald" title="Jake Archibald" xmlUrl="https://jakearchibald.com/posts.rss" htmlUrl="https://jakearchibald.com"/>
       <outline type="rss" text="Adrian Roselli" title="Adrian Roselli" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com"/>
       <outline type="rss" text="Lea Verou" title="Lea Verou" xmlUrl="https://lea.verou.me/feed.xml" htmlUrl="https://lea.verou.me"/>
